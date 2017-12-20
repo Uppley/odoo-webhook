@@ -4,7 +4,7 @@ Odoo Webhook Docs
 https://odoo-webhook.readthedocs.io/
 
 How to update Docs
-==================
+------------------
 
 Initialization
 --------------
@@ -28,7 +28,7 @@ Contribution
 
     cd /path/to/odoo-webhook/docs
     make html
-    # check warningn and errors in compilation logs
+    # check warnings and errors in compilation logs
     google-chrome _build/html/index.html
 
 * Make commits, push, create Pull Request

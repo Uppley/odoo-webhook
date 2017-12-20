@@ -3,12 +3,7 @@ Receive a webhook
 
 Once you register a webhook URL with Odoo, it will issue a HTTP POST request to the URL specified every time that event occurs. The request's POST parameters will contain XML/JSON data relevant to the event that triggered the request.
     
-The trouble with testing your webhooks is that you need a publicly visible URL to handle them. Unlike client-side redirects, webhooks originate directly from the server. This means that you cannot use the following as an endpoint in your testing environment:
-
-* Localhost
-* Any URL ending in the word "internal" (i.e. thisshop.com/internal)
-* "Fake" domains like www.example.com
-* Odoo domains (i.e. odoo.com and myodoo.com)
+The trouble with testing your webhooks is that you need a publicly visible URL to handle them.
 
 .. _webhook-tool:
 

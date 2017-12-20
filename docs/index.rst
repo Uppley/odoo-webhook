@@ -40,7 +40,7 @@ The module **webhook** is depend on **restapi** module, which is also available 
     * `Version 10.0 (Community & Enterprise) <https://www.odoo.com/apps/modules/10.0/restapi/>`_
     * `Version 11.0 (Community & Enterprise) <https://www.odoo.com/apps/modules/11.0/restapi/>`_
     
-.. note:: Odoo REST API documentation is available `here <http://odoo-restapi-docs.synconics.com>`_, which will give you complete guide for how to install and work with **restapi** module.
+.. note:: Odoo REST API documentation is available `here <http://odoo-restapi.readthedocs.io>`_, which will give you complete guide for how to install and work with **restapi** module.
 
 Installation
 ============

@@ -85,7 +85,7 @@ By default, it will fetch all the webhooks and relavent fields the current user 
    :statuscode 401: authentication failed
    :statuscode 403: if any error raise
    
-Conversedly, picking only six fields deemed interesting.
+Conversely, picking only six fields deemed interesting.
 
    **Request**:
 
@@ -167,7 +167,7 @@ Give a single webhook id and optionally a list of fields to fetch. By default, i
    :statuscode 401: authentication failed
    :statuscode 403: if any error raise
    
-Conversedly, picking only six fields deemed interesting.
+Conversely, picking only six fields deemed interesting.
 
    **Request**:
 
@@ -258,7 +258,7 @@ Give a list of webhook ids and optionally `domain <https://www.odoo.com/document
    :statuscode 401: authentication failed
    :statuscode 403: if any error raise
    
-Conversedly, picking only six fields deemed interesting.
+Conversely, picking only six fields deemed interesting.
 
    **Request**:
 
@@ -354,7 +354,7 @@ Give a `Domain <https://www.odoo.com/documentation/10.0/reference/orm.html#refer
    :statuscode 401: authentication failed
    :statuscode 403: if any error raise
 
-Conversedly, picking only six fields deemed interesting.
+Conversely, picking only six fields deemed interesting.
 
    **Request**:
 

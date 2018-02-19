@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Odoo Webhooks: Version 1.0'
-copyright = u'2017, Synconics Technologies Pvt. Ltd. - Odoo Official Partner (https://www.synconics.com)'
+copyright = u'2018, Synconics Technologies Pvt. Ltd. - Odoo Official Partner (https://www.synconics.com)'
 author = u'Synconics Technologies Pvt. Ltd. - Odoo Official Partner (https://www.synconics.com)'
 
 # The version info for the project you're documenting, acts as replacement for

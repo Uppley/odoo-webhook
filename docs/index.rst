@@ -27,9 +27,9 @@ Get the module
 
 The module **webhook** is available on **Odoo App Store**, Here are links for:
     
-    * `Version 9.0 (Community & Enterprise) <https://www.odoo.com/apps/modules/9.0/webhook/>`_
-    * `Version 10.0 (Community & Enterprise) <https://www.odoo.com/apps/modules/10.0/webhook/>`_
-    * `Version 11.0 (Community & Enterprise) <https://www.odoo.com/apps/modules/11.0/webhook/>`_
+    * `Version 9.0 (Community & Enterprise) <https://www.odoo.com/apps/modules/9.0/webhooks/>`_
+    * `Version 10.0 (Community & Enterprise) <https://www.odoo.com/apps/modules/10.0/webhooks/>`_
+    * `Version 11.0 (Community & Enterprise) <https://www.odoo.com/apps/modules/11.0/webhooks/>`_
     
 Dependencies
 ============
